@@ -15,6 +15,7 @@ struct ContentView: View {
             Button("Show Modal") {
                 isPresented = true
             }
+            .foregroundColor(.red)
             .sheet(isPresented : $isPresented) {
                 ModalView()
             }
