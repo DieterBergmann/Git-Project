@@ -11,6 +11,7 @@
 		B22D1DC427D358D6008E4A86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22D1DC327D358D6008E4A86 /* ContentView.swift */; };
 		B22D1DC627D358D8008E4A86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B22D1DC527D358D8008E4A86 /* Assets.xcassets */; };
 		B22D1DC927D358D8008E4A86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B22D1DC827D358D8008E4A86 /* Preview Assets.xcassets */; };
+		B22D1DD027D3619B008E4A86 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22D1DCF27D3619B008E4A86 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B22D1DC327D358D6008E4A86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B22D1DC527D358D8008E4A86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B22D1DC827D358D8008E4A86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B22D1DCF27D3619B008E4A86 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B22D1DC127D358D6008E4A86 /* Git_ProjectApp.swift */,
 				B22D1DC327D358D6008E4A86 /* ContentView.swift */,
+				B22D1DCF27D3619B008E4A86 /* ModalView.swift */,
 				B22D1DC527D358D8008E4A86 /* Assets.xcassets */,
 				B22D1DC727D358D8008E4A86 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B22D1DD027D3619B008E4A86 /* ModalView.swift in Sources */,
 				B22D1DC427D358D6008E4A86 /* ContentView.swift in Sources */,
 				B22D1DC227D358D6008E4A86 /* Git_ProjectApp.swift in Sources */,
 			);
